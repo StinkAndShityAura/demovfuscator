@@ -1,3 +1,6 @@
+**NTOE**  
+This is a original demovfuscator repository but include ’cstdint‘ for my arch.  
+**NOTE**  
 ## Demovfuscator
 
 
@@ -49,9 +52,7 @@ movfuscated binaries that emerged during several CTFs during the last months
 (Hackover CTF and 0CTF) proving that it already can handle real-world binaries
 that were not created by us.
 
-**NTOE**
-This is a original demovfuscator repository but include ’cstdint‘ for my arch.
-**NOTE**
+
 
 ### Compiling
 
